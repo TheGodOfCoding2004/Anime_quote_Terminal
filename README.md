@@ -14,4 +14,4 @@ It'll look kinda like this
 
 For the proper steps chk out this asciinema recording. 
 
-[![asciicast](https://asciinema.org/a/gujFb7Fn9S7p9Jbbrn9gUUnL6.svg)](https://asciinema.org/a/gujFb7Fn9S7p9Jbbrn9gUUnL6)
+[![asciicast](https://asciinema.org/a/1jq20OV72ul7nx3klvChbQvCl.svg)](https://asciinema.org/a/1jq20OV72ul7nx3klvChbQvCl)
