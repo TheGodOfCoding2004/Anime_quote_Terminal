@@ -18,10 +18,4 @@ For the proper steps chk out this asciinema recording.
 
 ## Star History
 
-<a href="https://star-history.com/#Vaishnav-Sabari-Girish/Anime_quote_Terminal&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Vaishnav-Sabari-Girish/Anime_quote_Terminal&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Vaishnav-Sabari-Girish/Anime_quote_Terminal&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Vaishnav-Sabari-Girish/Anime_quote_Terminal&type=Timeline" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=Vaishnav-Sabari-Girish/Anime_quote_Terminal&type=Timeline)](https://star-history.com/#Vaishnav-Sabari-Girish/Anime_quote_Terminal&Timeline)
