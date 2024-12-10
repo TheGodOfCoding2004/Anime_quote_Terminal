@@ -15,3 +15,13 @@ It'll look kinda like this
 For the proper steps chk out this asciinema recording. 
 
 [![asciicast](https://asciinema.org/a/1jq20OV72ul7nx3klvChbQvCl.svg)](https://asciinema.org/a/1jq20OV72ul7nx3klvChbQvCl)
+
+## Star History
+
+<a href="https://star-history.com/#TheGodOfCoding2004/Anime_quote_Terminal&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TheGodOfCoding2004/Anime_quote_Terminal&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TheGodOfCoding2004/Anime_quote_Terminal&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=TheGodOfCoding2004/Anime_quote_Terminal&type=Date" />
+ </picture>
+</a>
