@@ -16,6 +16,7 @@ For the proper steps chk out this asciinema recording.
 
 [![asciicast](https://asciinema.org/a/1jq20OV72ul7nx3klvChbQvCl.svg)](https://asciinema.org/a/1jq20OV72ul7nx3klvChbQvCl)
 
-## Star History
+## Stargazers over time
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Vaishnav-Sabari-Girish/Anime_quote_Terminal&type=Date)](https://star-history.com/#Vaishnav-Sabari-Girish/Anime_quote_Terminal&Date)
+[![Stargazers over time](https://starchart.cc/Vaishnav-Sabari-Girish/Anime_quote_Terminal.svg?variant=dark)](https://starchart.cc/Vaishnav-Sabari-Girish/Anime_quote_Terminal)
+                    
