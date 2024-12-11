@@ -18,6 +18,4 @@ For the proper steps chk out this asciinema recording.
 
 ## Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Vaishnav-Sabari-Girish/Anime_quote_Terminal&type=Date)](https://star-history.com/#Vaishnav-Sabari-Girish/Anime_quote_Terminal&Date)
